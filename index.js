@@ -1,8 +1,8 @@
 function happyHolidays(thing) {
-  return "${Happy holidays}!"
+  return "${Happy Holidays}!"
 }
 function say("happyHolidaysTo") {
-  return "${Happy holidays, ${Skylyn}"
+  return "${Happy holidays}, ${Skylyn}"
 }
 function say("happyHolidayTo") {
   console.log("Happy New Years, wishing you well!")
