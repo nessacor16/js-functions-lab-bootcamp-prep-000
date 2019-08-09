@@ -1,4 +1,4 @@
-function happyHolidays() {
+function happyHolidays(thing) {
   return "${Happy holidays}!"
 }
 function say("happyHolidaysTo") {
