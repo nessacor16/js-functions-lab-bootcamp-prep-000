@@ -1,14 +1,14 @@
 function happyHolidays() {
   return "Happy Holidays!"
 }
-function say("happyHolidaysTo") {
+function happyHolidaysTo() {
   return "${Happy holidays}, ${Skylyn}"
 }
-function say("happyHolidayTo") {
+function happyHolidayTo()) {
   console.log("Happy New Years, wishing you well!")
   return "${Happy holidays}, ${Skylyn}"
 }
-function NewYearsCountdown() {
+function holidayCountdown() {
   console.log("Happy New Years!")
   return "It's ${60} days until ${New Year's}!"
 }
